@@ -1,0 +1,17 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+
+
+#btn-microfono{
+    display: none;
+}
+
+
+#audio{
+    position: fixed;
+    bottom: 20px;
+    right: 20px;
+}
